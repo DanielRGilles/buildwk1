@@ -1,5 +1,5 @@
-exponentFunc = (base, exp) => {
-    // return Math.pow(base, exp);
-}
+const exponentFunc = (base, exp) => {
+  return  Math.pow(base, exp); 
+};
 
 module.exports = exponentFunc;
